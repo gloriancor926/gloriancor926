@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**gloriancor926/gloriancor926** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm GLORIAN CORPUTTY
+🎓 Computer Science | BSI University, Indonesia  
+💻 Passionate about coding, automation, and problem-solving  
+🚀 Exploring software development, cybersecurity, and web technologies  
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack & Interests:
+- Programming: Python, JavaScript, PHP, C#
+- Web: Laravel, Node.js, ASP.NET, Tailwind CSS
+- Databases: MySQL, PostgreSQL, SQL Server
+- Tools: Git, Docker, Nginx
+- Interests: Cybersecurity, Web Scraping, Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with me:
+- GitHub: [github.com/gloriancor926](https://github.com/gloriancor926)
+- LinkedIn: [linkedin.com/in/gloriancor926](https://linkedin.com/in/gloriancor926)
+
+✨ Always learning, building, and sharing knowledge!
